@@ -9,7 +9,7 @@
 body {
     font-family: "Cascadia Code", sans-serif;
     background-color: #111111;
-    color: #4F5350;
+    color: #999999;
     line-height: 1.6;
 }
 
@@ -68,7 +68,7 @@ main {
     max-width: 1000px;
     margin: 30px auto;
     padding: 20px;
-    background: #686A6C;
+    background: #4F5350;
     border-radius: 8px;
     box-shadow: 0 0 10px #FF430A;
 }
@@ -78,7 +78,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     margin-top: 40px;
-    background: #686A6C;
+    background: #4F5350;
     color: #EAEAEA;
 }
 
