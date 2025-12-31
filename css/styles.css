@@ -15,7 +15,7 @@ body {
 
 /* Style the navigation */
 header {
-    background: #000000;
+    background: #111111;
     color: #999999;
     padding: 10px 0;
 }
@@ -33,7 +33,7 @@ nav ul li {
 nav ul li a {
     position: relative;
     transition: color 0.3s ease;
-    color: #EAEAEA;
+    color: #999999;
     text-decoration: none;
     font-weight: bold;
 }
@@ -68,9 +68,9 @@ main {
     max-width: 1000px;
     margin: 30px auto;
     padding: 20px;
-    background: #4F5350;
+    background: #111111;
     border-radius: 8px;
-    box-shadow: 0 0 10px #FF430A;
+    box-shadow: 0 0 10px #999999;
 }
 
 /* Footer styling */
@@ -78,8 +78,8 @@ footer {
     text-align: center;
     padding: 20px 0;
     margin-top: 40px;
-    background: #4F5350;
-    color: #EAEAEA;
+    background: #111111;
+    color: #999999;
 }
 
 @keyframes fadeIn {
