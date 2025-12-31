@@ -8,22 +8,22 @@
 /* Set global font and background */
 body {
     font-family: "Cascadia Code", sans-serif;
-    background-color: #686A6C;
-    color: #EAEAEA;
+    background-color: #111111;
+    color: #4F5350;
     line-height: 1.6;
 }
 
 /* Style the navigation */
 header {
     background: #000000;
-    color: #EAEAEA;
+    color: #999999;
     padding: 10px 0;
 }
 
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 nav ul li {
